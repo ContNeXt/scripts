@@ -23,7 +23,7 @@ This repository contains code and data<sup>[1](#myfootnote1)</sup> described in 
 
 If you have found our study useful in your work, please consider citing:
 
-Figueiredo RQ, Dı́az del Ser S, Raschka T, Hofmann-Apitius M, Kodamullil AT, Mubeen S, Domingo-Fernández D (2022) Elucidating gene expression patterns across multiple biological contexts through a large-scale investigation of transcriptomic datasets. *bioRxiv*. https://doi.org/10.1101/2022.01.18.476735
+[Figueiredo RQ, Dı́az del Ser S, Raschka T, Hofmann-Apitius M, Kodamullil AT, Mubeen S, Domingo-Fernández D (2022) Elucidating gene expression patterns across multiple biological contexts through a large-scale investigation of transcriptomic datasets. *BMC Bioinformatics* 23, 231.]( https://doi.org/10.1186/s12859-022-04765-0)
 
 
 ### Setup environment
